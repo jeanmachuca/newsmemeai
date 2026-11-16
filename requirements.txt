@@ -1,0 +1,2 @@
+# Runtime dependencies are intentionally empty.
+# NewsMemeAI uses only the Python standard library (see docs/adr/0001-stdlib-first-core.md).

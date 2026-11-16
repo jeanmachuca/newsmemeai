@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>NewsMemeAI demo feed</title>
+    <link>https://example.com/news</link>
+    <description>Offline fixture for demos and tests.</description>
+    <item>
+      <title>City opens a new park &amp; plaza</title>
+      <link>https://example.com/news/park</link>
+      <pubDate>Sun, 16 Nov 2026 09:00:00 GMT</pubDate>
+      <description><![CDATA[<p>The council says <b>yes</b>.</p>]]></description>
+    </item>
+    <item>
+      <title>Robots learn to garden</title>
+      <link>https://example.com/news/robots</link>
+      <pubDate>Sun, 16 Nov 2026 08:30:00 GMT</pubDate>
+      <description>Tomatoes are involved.</description>
+    </item>
+    <item>
+      <title>Moon gets a new parking lot</title>
+      <link>https://example.com/news/moon</link>
+      <pubDate>Sun, 16 Nov 2026 08:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
